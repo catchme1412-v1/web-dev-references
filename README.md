@@ -48,6 +48,7 @@ https://sourceforge.net/projects/tupi2d/
 * Creative design https://www.canva.com
 * Animated Gif https://gifer.com/
 * Free illustration: https://undraw.co/
+* Image generation: https://www.canva.com/ai-image-generator/
 
 * FFmpeg is a great tool for quickly changing an AV file's format or quality, extracting audio, creating GIFs, and more.
 https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats
